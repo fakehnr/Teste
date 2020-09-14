@@ -1,2 +1,2 @@
 # Teste
-Teste Inicial
+Este arquivo mostra o uso do README
